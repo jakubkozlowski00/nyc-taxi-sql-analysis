@@ -19,6 +19,7 @@ Key Business Problems Solved
 5. **Cumulative Daily Revenue:** Built a Running Total curve for cash generated day by day over the month.
 6. **Airport Bottleneck Identification:** Detected extreme delays by locating airport-originating trips that took longer than the zone's average exit time.
 7. **Statistical Correlation Analysis:** Examined the Pearson correlation between trip distance, fare amount, and tipping behavior (filtering out unrecorded cash tips).
-8. 
+
+
 ---
 *Check out the [taxi_analysis.sql](taxi_analysis.sql) file for the full query scripts.*
